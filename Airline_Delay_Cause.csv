@@ -1,0 +1,67 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2022,9,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2423,420,155,18,105,4,138,21,5,36374,15639,2196,3925,74,14540
+2022,9,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",667,124,35,1,48,0,41,6,0,6748,2250,47,1526,12,2913
+2022,9,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",932,208,89,6,58,0,54,4,0,13263,6390,480,2461,0,3932
+2022,9,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2840,366,171,9,112,1,73,12,1,25779,15112,328,3495,53,6791
+2022,9,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",78,16,5,1,4,0,6,0,0,691,171,67,87,0,366
+2022,9,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",180,20,16,0,0,0,4,0,1,1050,886,0,0,0,164
+2022,9,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",938,121,34,3,62,1,21,3,0,6215,1487,170,2953,14,1591
+2022,9,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3424,429,275,19,7,2,126,3,2,31169,21499,1119,501,44,8006
+2022,9,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",9,1,0,0,0,0,1,0,0,35,0,0,0,0,35
+2022,9,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2018,177,79,11,30,0,57,13,3,12449,4451,839,1117,0,6042
+2022,9,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2149,451,174,3,36,1,237,14,1,24419,9583,228,1334,18,13256
+2022,8,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2596,552,207,27,128,5,185,75,2,46806,22257,2433,5730,279,16107
+2022,8,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",702,177,43,3,74,1,56,7,1,7554,1758,261,2224,79,3232
+2022,8,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",922,236,101,7,65,0,64,8,1,15059,7634,452,2680,0,4293
+2022,8,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2922,440,204,19,119,0,99,28,1,39066,25928,1122,5200,0,6816
+2022,8,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",144,50,15,3,11,0,20,1,0,2817,1365,118,363,0,971
+2022,8,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",200,33,27,0,0,1,5,0,2,1380,1199,0,0,21,160
+2022,8,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",892,129,34,4,70,2,20,9,0,9763,2725,162,3983,191,2702
+2022,8,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3712,467,275,37,9,1,145,11,1,36919,21817,3507,389,31,11175
+2022,8,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",36,2,1,0,1,0,0,0,0,59,39,0,20,0,0
+2022,8,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2239,401,175,20,67,0,139,24,4,34996,14674,2505,3254,0,14563
+2022,8,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2426,618,238,5,35,3,336,33,1,35580,12332,538,1427,314,20969
+2022,7,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2554,660,247,24,156,1,233,58,2,51172,18956,2540,6751,36,22889
+2022,7,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",696,145,39,2,61,1,43,3,0,7167,2454,97,2043,27,2546
+2022,7,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",921,260,113,3,76,0,68,10,4,15914,8029,90,2938,0,4857
+2022,7,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2934,488,221,12,111,0,144,26,1,38128,20967,842,3984,0,12335
+2022,7,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",216,82,22,5,21,0,34,2,0,3196,891,187,688,9,1421
+2022,7,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",217,33,24,0,0,3,6,0,1,1551,1168,0,0,50,333
+2022,7,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",896,129,37,7,59,2,25,1,0,8457,2733,516,3530,74,1604
+2022,7,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3811,534,323,51,18,1,141,7,2,33789,18807,4398,1403,18,9163
+2022,7,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",35,2,1,0,1,0,0,0,0,36,16,0,20,0,0
+2022,7,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2351,511,230,25,87,0,169,24,0,35847,16228,1803,3420,0,14396
+2022,7,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2377,648,237,8,44,3,356,21,2,37428,11497,611,2342,103,22875
+2022,6,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2557,791,309,28,212,4,238,130,2,62809,28520,2194,8600,228,23267
+2022,6,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",726,177,51,2,75,0,49,10,2,9566,3949,202,2722,0,2693
+2022,6,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",784,213,100,3,57,1,52,3,3,15594,7174,489,2747,21,5163
+2022,6,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2855,604,302,17,140,1,144,104,3,39156,22502,1213,5618,55,9768
+2022,6,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",187,76,21,2,16,1,35,9,0,3992,1129,123,591,38,2111
+2022,6,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",200,62,52,0,1,2,7,0,2,2519,2053,0,50,78,338
+2022,6,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",843,165,65,5,60,1,34,3,0,12165,5386,478,3985,24,2292
+2022,6,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3813,614,383,33,16,1,181,12,2,42826,26117,2906,576,92,13135
+2022,6,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",79,22,6,0,13,0,2,0,0,886,350,0,375,0,161
+2022,6,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2204,491,221,10,98,0,162,37,0,35537,15393,987,4561,0,14596
+2022,6,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2226,614,253,2,42,5,312,10,4,31767,12706,275,1364,110,17312
+2022,5,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2506,438,189,22,91,0,135,22,0,34349,15649,1986,3568,12,13134
+2022,5,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",824,168,62,2,45,2,58,32,0,9062,4058,90,1693,31,3190
+2022,5,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",993,261,119,8,64,2,68,1,5,16537,8458,695,2700,84,4600
+2022,5,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2582,462,214,11,148,0,88,79,0,29272,15948,1044,5573,0,6707
+2022,5,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",118,33,13,3,5,0,12,3,0,1624,627,87,218,0,692
+2022,5,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",186,25,20,0,1,2,2,0,0,689,541,0,30,31,87
+2022,5,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",909,275,95,10,122,5,43,13,0,13301,4755,530,5011,195,2810
+2022,5,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",4025,584,346,49,6,1,182,7,1,40533,23917,3012,383,194,13027
+2022,5,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",110,15,4,0,5,0,6,2,0,899,238,0,121,0,540
+2022,5,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2054,326,151,13,63,0,100,23,1,23203,10184,725,2279,0,10015
+2022,5,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2498,516,215,2,50,6,243,14,2,22486,9018,58,1661,177,11572
+2022,4,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2424,474,177,9,165,4,118,29,2,27548,13239,735,5284,337,7953
+2022,4,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",890,233,63,4,96,1,69,73,0,12572,3539,331,3510,26,5166
+2022,4,B6,JetBlue Airways,LAX,"Los Angeles, CA: Los Angeles International",909,367,151,4,145,2,65,34,0,23593,10517,511,5465,85,7015
+2022,4,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2394,477,194,8,185,1,89,14,0,30748,15994,1142,6193,51,7368
+2022,4,G4,Allegiant Air,LAX,"Los Angeles, CA: Los Angeles International",117,43,13,0,14,0,16,4,0,2199,597,0,452,2,1148
+2022,4,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",180,14,12,0,0,0,2,0,0,474,409,0,0,0,65
+2022,4,NK,Spirit Air Lines,LAX,"Los Angeles, CA: Los Angeles International",750,268,93,3,125,3,45,75,2,15887,6520,119,5197,140,3911
+2022,4,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3637,416,257,47,6,2,104,4,0,23564,14343,2157,388,69,6607
+2022,4,QX,Horizon Air,LAX,"Los Angeles, CA: Los Angeles International",92,24,5,1,8,0,10,1,0,1071,265,30,253,0,523
+2022,4,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2054,348,151,9,98,1,89,22,2,20992,8371,681,3087,33,8820
+2022,4,WN,Southwest Airlines Co.,LAX,"Los Angeles, CA: Los Angeles International",2347,675,254,1,72,5,343,19,5,32895,12383,131,2421,116,17844
