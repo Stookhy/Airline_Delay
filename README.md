@@ -16,4 +16,3 @@ Dataset: https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E
  The purpose is to determine the number of delayed flights going into LAX airport from April 2022 - September 2022. Identifying the cause of delay, and peak times for travel. Flight delays are 15 minutes or more from the schedule time arrival. Flight delays can occur from 
     
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. 
