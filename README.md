@@ -11,7 +11,7 @@
 
 ## Purpose and Analysis
 
-    The purpose is to determine the number of delayed flights going into LAX airport from April 2022 - September 2022. Identifying the cause of delay, and peak times for travel. 
+  The purpose is to determine the number of delayed flights going into LAX airport from April 2022 - September 2022. Identifying the cause of delay, and peak times for travel. 
     
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. 
