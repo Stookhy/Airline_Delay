@@ -15,9 +15,10 @@ Dashboard: https://public.tableau.com/app/profile/sheela.tookhy/viz/totalflights
 
 ## Purpose and Analysis
 
- The purpose is to determine the number of delayed flights going into LAX airport from April 2022 - September 2022. Identifying the cause of delay, and peak times for travel. Flight delays are 15 minutes or more from the schedule time arrival. 
-    
+ The purpose is to determine the number of delayed flights going into Los Angeles International Airport (LAX) airport from April 2022 - September 2022. Identifying the cause of delay, and peak times for travel. Flight delays are 15 minutes or more from the schedule time arrival. 
 
 ![This is an image](https://github.com/Stookhy/Airline_Delay/blob/main/Images/Airlines%20Delay.png?raw=true)
 
 ![This is an image](https://github.com/Stookhy/Airline_Delay/blob/main/Images/Average%20Weather%20Delay.png?raw=true)
+
+
