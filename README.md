@@ -21,4 +21,4 @@ Dashboard: https://public.tableau.com/app/profile/sheela.tookhy/viz/totalflights
 
 ![This is an image](https://github.com/Stookhy/Airline_Delay/blob/main/Images/Average%20Weather%20Delay.png?raw=true)
 
-![This is an image](
+![This is an image](https://github.com/Stookhy/Airline_Delay/blob/main/Images/Percentage%20of%20Total%20Flights%20Delayed%20by%20Airline.png?raw=true)
