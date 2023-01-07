@@ -32,4 +32,4 @@ There is a relatively strong correlation between the numbers of flights delayed,
 
 ## Summary
 
-The graphs provide carrier information on the number of flights delayed and the number of minutes resulting from these delays, for the period of (insert period range here). It provides value, both to each carrier with regards to assessing their performance relative to the other companies, as well as for future passengers with regards to making decisions relating to their future flight plans.
+The graphs provide carrier information on the number of flights delayed and the number of minutes resulting from these delays, for the period of April - September 2022. It provides value, both to each carrier with regards to assessing their performance relative to the other companies, as well as for future passengers with regards to making decisions relating to their future flight plans.
